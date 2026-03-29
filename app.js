@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('CI/CD Pipeline is working!'); //checking webhook is working or not
+  res.send('CI/CD Pipeline is working!'); //Cross Checking Webhook with Jenkins 
 });
 
 app.listen(3000, () => {
