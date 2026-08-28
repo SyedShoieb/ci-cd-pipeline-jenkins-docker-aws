@@ -303,5 +303,5 @@ sudo docker system prune -a -f
 
 Syed Shoieb
 
-GitHub:
-https://github.com/SyedShoieb
+GitHub: https://github.com/SyedShoieb
+LinkedIn: https://www.linkedin.com/in/syedshoieb/
